@@ -1,0 +1,6 @@
+{
+  "name": "가톨릭대학교 은평성모병원 환자경험평가(CX) & VOC 분석 시스템",
+  "description": "가톨릭대학교 은평성모병원 환자경험평가 정량 점수와 주관식 VOC를 연계 분석하여 취약부서 선별, 원인 매칭, Action Plan 및 CX Feedback Sheet를 자동 생성하는 병원 특화 BI 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
