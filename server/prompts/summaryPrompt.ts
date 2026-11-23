@@ -1,4 +1,4 @@
-import { SummaryRequest } from "../types/aiTypes";
+import { SummaryRequest } from "../types/aiTypes.js";
 
 
 

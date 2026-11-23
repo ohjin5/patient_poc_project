@@ -20,7 +20,7 @@ import {
 
   SummaryResponse,
 
-} from "../types/aiTypes";
+} from "../types/aiTypes.js";
 
 
 
@@ -28,7 +28,7 @@ import {
 
   buildVocAnalysisPrompt,
 
-} from "../prompts/vocAnalysisPrompt";
+} from "../prompts/vocAnalysisPrompt.js";
 
 
 
@@ -36,7 +36,7 @@ import {
 
   buildRootCausePrompt,
 
-} from "../prompts/rootCausePrompt";
+} from "../prompts/rootCausePrompt.js";
 
 
 
@@ -44,7 +44,7 @@ import {
 
   buildActionPlanPrompt,
 
-} from "../prompts/actionPlanPrompt";
+} from "../prompts/actionPlanPrompt.js";
 
 
 
@@ -52,7 +52,7 @@ import {
 
   buildSummaryPrompt,
 
-} from "../prompts/summaryPrompt";
+} from "../prompts/summaryPrompt.js";
 
 
 

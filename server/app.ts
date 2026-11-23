@@ -3,8 +3,8 @@ import cors from "cors";
 import dotenv from "dotenv";
 import cookieParser from "cookie-parser";
 
-import authRouter from "./routes/auth";
-import aiRouter from "./routes/ai";
+import authRouter from "./routes/auth.js";
+import aiRouter from "./routes/ai.js";
 
 dotenv.config();
 

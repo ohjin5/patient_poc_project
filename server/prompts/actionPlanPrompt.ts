@@ -1,4 +1,4 @@
-import { ActionPlanRequest } from "../types/aiTypes";
+import { ActionPlanRequest } from "../types/aiTypes.js";
 
 
 /**

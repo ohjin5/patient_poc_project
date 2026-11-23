@@ -1,4 +1,4 @@
-import { VocAnalysisRequest } from "../types/aiTypes";
+import { VocAnalysisRequest } from "../types/aiTypes.js";
 
 
 /**

@@ -6,18 +6,18 @@ import {
 
 import {
   requireAuth,
-} from "../middleware/authMiddleware";
+} from "../middleware/authMiddleware.js";
 
 import {
   GeminiService,
-} from "../services/geminiService";
+} from "../services/geminiService.js";
 
 import type {
   VocAnalysisRequest,
   RootCauseRequest,
   ActionPlanRequest,
   SummaryRequest,
-} from "../types/aiTypes";
+} from "../types/aiTypes.js";
 
 
 const router =

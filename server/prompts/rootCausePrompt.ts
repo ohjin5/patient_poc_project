@@ -1,4 +1,4 @@
-import { RootCauseRequest } from "../types/aiTypes";
+import { RootCauseRequest } from "../types/aiTypes.js";
 
 
 /**
